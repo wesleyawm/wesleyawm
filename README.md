@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Estudo do colégio SESI 
+- 🔭 Estudo no colégio SESI 
 - 🌱 Fazendo o segundo ano do ensino médio
 - 🤔 Gosto de viajar
 - 👯
